@@ -1,7 +1,7 @@
 LineageOS
 ===========
 
-Submitting Patches
+提交Patches
 ------------------
 
 Patches are always welcome!  Please submit your patches via LineageOS Gerrit.
@@ -25,13 +25,13 @@ Commit your patches in a single commit. Squash multiple commits using this comma
 To view the status of your and others' patches, visit [LineageOS Code Review](https://review.lineageos.org/)
 
 
-Getting Started
+入门
 ---------------
 
 To get started with Android/LineageOS, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+要使用LineageOS树来初始化您的本地数据库，使用一个像这样的命令：
 
     repo init -u git://github.com/LineageOS/android.git -b cm-14.1
 
